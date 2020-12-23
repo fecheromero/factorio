@@ -3,7 +3,7 @@
 
 # But not these files...
 !falopa SA.zip
-
+!coronamundo.zip
 
 # ...even if they are in subdirectories
 !*/
